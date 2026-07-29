@@ -1,0 +1,2 @@
+"""Fitness Agent application package."""
+
